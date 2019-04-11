@@ -8,6 +8,7 @@ It contains four files:
   run_analysis.R - R- script used to conduct the analysis
   
 The code was written based on the instruction of this assignment
+
 Read training and test dataset into R environment. Read variable names into R envrionment. Read subject index into R environment.
 
 1. Merges the training and the test sets to create one data set. Use command rbind to combine training and test set
